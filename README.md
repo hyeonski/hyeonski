@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 🌱 I am a developer studying in 42Seoul. 
 
-[![hyeonski's 42 stats](https://badge42.herokuapp.com/api/stats/hyeonski)](https://github.com/JaeSeoKim/badge42)
-
 🙈 I am interested in `C`, `Makefile`, `Tensorflow`, `Python`, `Django`, `Docker`, and `Javascript`!
 
 🚀 I'm dreaming of becoming a FullStack developer!
