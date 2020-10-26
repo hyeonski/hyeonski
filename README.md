@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 **🚧 Working in Progress**
 
 ```c
-void	jaeseokim(t_study *study_list)
+void	hyeonski(t_study *study_list)
 {
     t_study new_something;
     
@@ -55,5 +55,5 @@ void	jaeseokim(t_study *study_list)
 
 ---
 
-![JaeSeoKim's github stats](https://github-readme-stats.vercel.app/api?username=JaeSeoKim&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
-![JaeSeoKim's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeSeoKim&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
+![hyeonski's github stats](https://github-readme-stats.vercel.app/api?username=hyeonski&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
+![hyeonski's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonski&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
