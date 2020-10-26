@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm HyeonSeung Kim! 👋
 
-**⚡️Badges :** ![42](https://badgen.net/badge/Born2Code/jaeskim/yellow?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg) ![K-Shield_Jr](https://badgen.net/badge/K-Shield%20Jr/3rd?cache=86400) ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeSeoKim)
+**⚡️Badges :** ![42](https://badgen.net/badge/Born2Code/hyeonski/yellow?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg) ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeSeoKim)
 
 ---
 
