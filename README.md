@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-🌱 I am a student developer studying in 42Seoul. 
+🌱 I am a developer studying in 42Seoul. 
 
 [![hyeonski's 42 stats](https://badge42.herokuapp.com/api/stats/hyeonski)](https://github.com/JaeSeoKim/badge42)
 
