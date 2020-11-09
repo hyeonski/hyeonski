@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 🙈 I am interested in `C`, `Makefile`, `Python`, `Tensorflow`, `Django`, `Docker`, and `Javascript`.
 
-🚀 I'm dreaming of becoming a FullStack developer.
-
 ---
 
 **🚧 Working in Progress**
