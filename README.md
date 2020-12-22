@@ -40,30 +40,30 @@ Here are some ideas to get you started:
 
 **hyeonski's 42cursus Project
 
-| CIRCLE |      PROJECT      |      LANGUAGE      |        DURATION         |   RESULT    |     LEVEL     |
-| :----: | :---------------: | :----------------: | :---------------------: | :---------: | :-----------: |
-|   00   |       Libft       |         C          | 2020.09.28 ~ 2020.10.11 |   115% ✔️    | level 1 - 03% |
-|   💫    |                   |                    |                         |             |               |
-|   01   |   get_next_line   |         C          | 2020.10.11 ~ 2020.10.17 |   115% ✔️    | level 1 - 48% |
-|        |     ft_printf     |         C          | 2020.10.19 ~ 2020.11.03 |   100% ✔️    | level 1 - 88% |
-|        |      netwhat      |        N/A         | 2020.11.03 ~ 2020.11.03 |   100% ✔️    | level 2 - 03% |
-|   💫    |                   |                    |                         |             |               |
-|   02   |   Exam Rank 02    |         C          |       2020.11.10        |   100% ✔️    | level 2 - 03% |
-|        |     ft_server     |       Docker       | 2020.11.03 ~ 2020.11.10 |   100% ✔️    | level 2 - 30% |
-|        |  cub3d or miniRT  |         C          |      2020.11.10 ~       | In Progress |               |
-|   💫    |                   |                    |                         |             |               |
-|   03   |   Exam Rank 03    |         C          |                         |             |               |
-|        |      libasm       |    C, Assembly     |                         |             |               |
-|        |     minishell     |         C          |                         |             |               |
-|        |    ft_services    | Docker, Kubernetes |                         |             |               |
-|   💫    |                   |                    |                         |             |               |
-|   04   |   Exam Rank 04    |         C          |                         |             |               |
-|        |    CPP Modules    |        C++         |                         |             |               |
-|        |   Philosophers    |         C          |                         |             |               |
-|   💫    |                   |                    |                         |             |               |
-|   05   |   Exam Rank 05    |         C          |                         |             |               |
-|        |   ft_containers   |        C++         |                         |             |               |
-|        | webserv or ft_irc |        C++         |                         |             |               |
-|   💫    |                   |                    |                         |             |               |
-|   06   |   Exam Rank 06    |         C          |                         |             |               |
-|        | ft_transcendence  |        Ruby        |                         |             |               |
+| CIRCLE |      PROJECT      |      LANGUAGE      |        DURATION         |                            RESULT                            |     LEVEL     |
+| :----: | :---------------: | :----------------: | :---------------------: | :----------------------------------------------------------: | :-----------: |
+|   00   |       Libft       |         C          | 2020.09.28 ~ 2020.10.11 | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/Libft)](https://github.com/JaeSeoKim/badge42) | level 1 - 03% |
+|   💫    |                   |                    |                         |                                                              |               |
+|   01   |   get_next_line   |         C          | 2020.10.11 ~ 2020.10.17 | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/get_next_line)](https://github.com/JaeSeoKim/badge42) | level 1 - 48% |
+|        |     ft_printf     |         C          | 2020.10.19 ~ 2020.11.03 | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/ft_printf)](https://github.com/JaeSeoKim/badge42) | level 1 - 88% |
+|        |      netwhat      |        N/A         | 2020.11.03 ~ 2020.11.03 | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/netwhat)](https://github.com/JaeSeoKim/badge42) | level 2 - 03% |
+|   💫    |                   |                    |                         |                                                              |               |
+|   02   |   Exam Rank 02    |         C          |       2020.11.10        | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/Exam Rank 02)](https://github.com/JaeSeoKim/badge42) | level 2 - 03% |
+|        |     ft_server     |       Docker       | 2020.11.03 ~ 2020.11.10 | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/ft_server)](https://github.com/JaeSeoKim/badge42) | level 2 - 30% |
+|        |  cub3d or miniRT  |         C          |      2020.11.10 ~       |                         In Progress                          |               |
+|   💫    |                   |                    |                         |                                                              |               |
+|   03   |   Exam Rank 03    |         C          |                         |                                                              |               |
+|        |      libasm       |    C, Assembly     |                         |                                                              |               |
+|        |     minishell     |         C          |                         |                                                              |               |
+|        |    ft_services    | Docker, Kubernetes |                         |                                                              |               |
+|   💫    |                   |                    |                         |                                                              |               |
+|   04   |   Exam Rank 04    |         C          |                         |                                                              |               |
+|        |    CPP Modules    |        C++         |                         |                                                              |               |
+|        |   Philosophers    |         C          |                         |                                                              |               |
+|   💫    |                   |                    |                         |                                                              |               |
+|   05   |   Exam Rank 05    |         C          |                         |                                                              |               |
+|        |   ft_containers   |        C++         |                         |                                                              |               |
+|        | webserv or ft_irc |        C++         |                         |                                                              |               |
+|   💫    |                   |                    |                         |                                                              |               |
+|   06   |   Exam Rank 06    |         C          |                         |                                                              |               |
+|        | ft_transcendence  |        Ruby        |                         |                                                              |               |
