@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 |        |     ft_printf     |         C          | 2020.10.19 ~ 2020.11.03 | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/ft_printf)](https://github.com/JaeSeoKim/badge42) | level 1 - 88% |
 |        |      netwhat      |        N/A         | 2020.11.03 ~ 2020.11.03 | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/netwhat)](https://github.com/JaeSeoKim/badge42) | level 2 - 03% |
 |   💫    |                   |                    |                         |                                                              |               |
-|   02   |   Exam Rank 02    |         C          |       2020.11.10        | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/Exam Rank 02)](https://github.com/JaeSeoKim/badge42) | level 2 - 03% |
+|   02   |   Exam Rank 02    |         C          |       2020.11.10        | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/netwhat)](https://github.com/JaeSeoKim/badge42) | level 2 - 03% |
 |        |     ft_server     |       Docker       | 2020.11.03 ~ 2020.11.10 | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/ft_server)](https://github.com/JaeSeoKim/badge42) | level 2 - 30% |
 |        |  cub3d or miniRT  |         C          |      2020.11.10 ~       |                         In Progress                          |               |
 |   💫    |                   |                    |                         |                                                              |               |
