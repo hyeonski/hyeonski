@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ---
 
-**hyeonski's 42cursus Project
+#### hyeonski's 42cursus Project
 
 | CIRCLE |      PROJECT      |      LANGUAGE      |        DURATION         |                            RESULT                            |     LEVEL     |
 | :----: | :---------------: | :----------------: | :---------------------: | :----------------------------------------------------------: | :-----------: |
