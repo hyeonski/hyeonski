@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 |   💫    |                   |                    |                         |                                                              |               |
 |   02   |   Exam Rank 02    |         C          |       2020.11.10        | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/Exam%20Rank%2002)](https://github.com/JaeSeoKim/badge42) | level 2 - 03% |
 |        |     ft_server     |       Docker       | 2020.11.03 ~ 2020.11.10 | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/ft_server)](https://github.com/JaeSeoKim/badge42) | level 2 - 30% |
-|        |  cub3d or miniRT  |         C          |      2020.11.10 ~       |                         In Progress                          |               |
+|        |  cub3d or miniRT  |         C          |      2020.11.10 ~       |                      cub3d: In Progress                      |               |
 |   💫    |                   |                    |                         |                                                              |               |
 |   03   |   Exam Rank 03    |         C          |                         |                                                              |               |
 |        |      libasm       |    C, Assembly     |                         |                                                              |               |
