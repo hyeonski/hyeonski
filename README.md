@@ -43,15 +43,15 @@ Here are some ideas to get you started:
 | CIRCLE |      PROJECT      |      LANGUAGE      |        DURATION         |                            RESULT                            |     LEVEL     |
 | :----: | :---------------: | :----------------: | :---------------------: | :----------------------------------------------------------: | :-----------: |
 |   00   |       Libft       |         C          | 2020.09.28 ~ 2020.10.11 | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/Libft)](https://github.com/JaeSeoKim/badge42) | level 1 - 03% |
-|   💫    |                   |                    |                         |                                                              |               |
+|   💫    |                   |                    |      **= 2 weeks**      |                                                              |               |
 |   01   |   get_next_line   |         C          | 2020.10.11 ~ 2020.10.17 | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/get_next_line)](https://github.com/JaeSeoKim/badge42) | level 1 - 48% |
 |        |     ft_printf     |         C          | 2020.10.19 ~ 2020.11.03 | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/ft_printf)](https://github.com/JaeSeoKim/badge42) | level 1 - 88% |
 |        |      netwhat      |        N/A         | 2020.11.03 ~ 2020.11.03 | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/netwhat)](https://github.com/JaeSeoKim/badge42) | level 2 - 03% |
-|   💫    |                   |                    |                         |                                                              |               |
+|   💫    |                   |                    |      **=4 weeks**       |                                                              |               |
 |   02   |   Exam Rank 02    |         C          |       2020.11.10        | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/Exam%20Rank%2002)](https://github.com/JaeSeoKim/badge42) | level 2 - 03% |
 |        |     ft_server     |       Docker       | 2020.11.03 ~ 2020.11.10 | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/ft_server)](https://github.com/JaeSeoKim/badge42) | level 2 - 30% |
-|        |  cub3d or miniRT  |         C          |      2020.11.10 ~       |                      cub3d: In Progress                      |               |
-|   💫    |                   |                    |                         |                                                              |               |
+|        |  cub3d or miniRT  |         C          | 2020.11.10 ~ 2020.12.30 | cub3d:![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/cub3d) | Level 3 - 9%  |
+|   💫    |                   |                    |      **=8 weeks**       |                                                              |               |
 |   03   |   Exam Rank 03    |         C          |                         |                                                              |               |
 |        |      libasm       |    C, Assembly     |                         |                                                              |               |
 |        |     minishell     |         C          |                         |                                                              |               |
