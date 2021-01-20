@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 |        |  cub3d or miniRT  |         C          | 2020.11.10 ~ 2020.12.30 | cub3d:![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/cub3d) | Level 3 - 9%  |
 |   💫    |                   |                    |      **=8 weeks**       |                                                              |               |
 |   03   |   Exam Rank 03    |         C          |                         |                                                              |               |
-|        |      libasm       |    C, Assembly     |                         |                                                              |               |
-|        |     minishell     |         C          |                         |                                                              |               |
+|        |      libasm       |    C, Assembly     | 2021.01.04 ~ 2021.01.14 | ![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/libasm) |               |
+|        |     minishell     |         C          |                         | ![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/minishell) |               |
 |        |    ft_services    | Docker, Kubernetes |                         |                                                              |               |
 |   💫    |                   |                    |                         |                                                              |               |
 |   04   |   Exam Rank 04    |         C          |                         |                                                              |               |
