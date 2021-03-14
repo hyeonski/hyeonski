@@ -53,9 +53,10 @@ Here are some ideas to get you started:
 |        |  cub3d or miniRT  |         C          | 2020.11.10 ~ 2020.12.30 | cub3d:![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/cub3d) | Level 3 - 9%  |
 |   💫    |                   |                    |      **=8 weeks**       |                                                              |               |
 |   03   |   Exam Rank 03    |         C          |                         |                                                              |               |
-|        |      libasm       |    C, Assembly     | 2021.01.04 ~ 2021.01.14 | ![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/libasm) |               |
-|        |     minishell     |         C          |                         | ![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/minishell) |               |
-|        |    ft_services    | Docker, Kubernetes |                         |                                                              |               |
+|        |      libasm       |    C, Assembly     | 2021.01.04 ~ 2021.01.14 | ![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/libasm) | Level 3 - 34% |
+|        |     minishell     |         C          | 2021.01.17 ~ 2021.02.11 | ![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/minishell) | Level 4 - 0%  |
+|        |    ft_services    | Docker, Kubernetes | 2021.03.02 ~ 2021.03.12 | ![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/ft_services) | Level 4 - 16% |
+|        |     push_swap     |         C          |      2021.03.13 ~       | ![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/push_swap) |               |
 |   💫    |                   |                    |                         |                                                              |               |
 |   04   |   Exam Rank 04    |         C          |                         |                                                              |               |
 |        |    CPP Modules    |        C++         |                         |                                                              |               |
