@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 [![hyeonski's 42 stats](https://badge42.herokuapp.com/api/stats/hyeonski)](https://github.com/JaeSeoKim/badge42)
 
-🙈 I am interested in `C`, `Makefile`, `Python`, `Tensorflow`, `Django`, `Docker`, and `Javascript`.
+🙈 I am interested in `C++`, `Python`, `Django`, and `Docker`.
 
 ---
 
