@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 |        |    ft_services    |        Docker, Kubernetes        | 2021.03.02 ~ 2021.03.12 | ![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/ft_services) | Level 4 - 16% |
 |        |     push_swap     |                C                 |      2021.03.13 ~       | ![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/push_swap) |               |
 |   💫    |                   |                                  |     **= 11 weeks**      |                                                              |               |
-|   04   |   Exam Rank 04    |                C                 |                         |                                                              |               |
+|   04   |   Exam Rank 04    |                C                 |       2021.03.25        | ![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/Exam%20Rank%2004) | Level 4 - 16% |
 |        |    CPP Modules    |               C++                |                         |                                                              |               |
 |        |   Philosophers    |                C                 |      2021.03.23 ~       | ![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hyeonski/Philosophers) |               |
 |   💫    |                   |                                  |                         |                                                              |               |
