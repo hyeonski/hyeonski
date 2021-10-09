@@ -23,13 +23,11 @@ Here are some ideas to get you started:
 
 [![hyeonski's 42 stats](https://badge42.herokuapp.com/api/stats/hyeonski)](https://github.com/JaeSeoKim/badge42)
 
-🙈 I am interested in `C++`, `Python`, `Django`, and `Docker`.
-
 ---
 
 **👷 Skill list**
 
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Makefile%20-%232671E5.svg?&style=for-the-badge&logo=CMake&logoColor=white"> <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Makefile%20-%232671E5.svg?&style=for-the-badge&logo=CMake&logoColor=white"> <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 ---
 
@@ -37,5 +35,4 @@ Here are some ideas to get you started:
 ![hyeonski's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonski&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeonski)](https://solved.ac/hyeonski)
-
 
