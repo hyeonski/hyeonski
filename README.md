@@ -33,6 +33,3 @@ Here are some ideas to get you started:
 
 ![hyeonski's github stats](https://github-readme-stats.vercel.app/api?username=hyeonski&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
 ![hyeonski's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonski&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
-
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeonski)](https://solved.ac/hyeonski)
-
